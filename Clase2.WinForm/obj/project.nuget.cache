@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VoNYzA67p5pMRj8OQoOpnaBzlo9ApPW+leXVbOHAQQjgbZ/5ffjwEe2yV+z9G7oGWrUsSqcv821f23qPiG/UqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nitof\\source\\repos\\Repositorios Programacion Web III\\Clase-2\\Clase2.WinForm\\Clase2.WinForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nitof\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\nitof\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\nitof\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\nitof\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
